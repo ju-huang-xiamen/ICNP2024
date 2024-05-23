@@ -1,0 +1,233 @@
+\begin{thebibliography}{10}
+
+\bibitem{yao2022hlb}
+Z.~Yao, Y.~Desmouceaux, J.-A. Cordero-Fuertes, M.~Townsley, and T.~Clausen,
+  ``Hlb: Toward load-aware load balancing,'' {\em IEEE/ACM Transactions on
+  Networking}, vol.~30, no.~6, pp.~2658--2673, 2022.
+
+\bibitem{greenberg2009vl2}
+A.~Greenberg, J.~R. Hamilton, N.~Jain, S.~Kandula, C.~Kim, P.~Lahiri, D.~A.
+  Maltz, P.~Patel, and S.~Sengupta, ``Vl2: A scalable and flexible data center
+  network,'' in {\em Proc. of ACM SIGCOMM}, pp.~51--62, 2009.
+
+\bibitem{patel2013ananta}
+P.~Patel, D.~Bansal, L.~Yuan, A.~Murthy, A.~Greenberg, D.~A. Maltz, R.~Kern,
+  H.~Kumar, M.~Zikos, H.~Wu, {\em et~al.}, ``Ananta: Cloud scale load
+  balancing,'' pp.~207--218, 2013.
+
+\bibitem{miao2017silkroad}
+R.~Miao, H.~Zeng, C.~Kim, J.~Lee, and M.~Yu, ``Silkroad: Making stateful
+  layer-4 load balancing fast and cheap using switching asics,'' in {\em Proc.
+  of ACM SIGCOMM}, pp.~15--28, 2017.
+
+\bibitem{zeng2022tiara}
+C.~Zeng, L.~Luo, T.~Zhang, Z.~Wang, L.~Li, W.~Han, N.~Chen, L.~Wan, L.~Liu,
+  Z.~Ding, {\em et~al.}, ``Tiara: A scalable and efficient hardware
+  acceleration architecture for stateful layer-4 load balancing,'' in {\em
+  Proc. of USENIX NSDI}, pp.~1345--1358, 2022.
+
+\bibitem{aghdai2020spotlight}
+A.~Aghdai, C.-Y. Chu, Y.~Xu, D.~H. Dai, J.~Xu, and H.~J. Chao, ``Spotlight:
+  Scalable transport layer load balancing for data center networks,'' {\em IEEE
+  Transactions on Cloud Computing}, vol.~10, no.~3, pp.~2131--2145, 2020.
+
+\bibitem{langley2017quic}
+A.~Langley, A.~Riddoch, A.~Wilk, A.~Vicente, C.~Krasic, D.~Zhang, F.~Yang,
+  F.~Kouranov, I.~Swett, J.~Iyengar, {\em et~al.}, ``The quic transport
+  protocol: Design and internet-scale deployment,'' in {\em Proc. of ACM
+  SIGCOMM}, pp.~183--196, 2017.
+
+\bibitem{eisenbud2016maglev}
+D.~E. Eisenbud, C.~Yi, C.~Contavalli, C.~Smith, R.~Kononov, E.~Mann-Hielscher,
+  A.~Cilingiroglu, B.~Cheyney, W.~Shang, and J.~D. Hosein, ``Maglev: A fast and
+  reliable software network load balancer,'' in {\em Proc. of USENIX NSDI},
+  pp.~523--535, 2016.
+
+\bibitem{olteanu2018stateless}
+V.~Olteanu, A.~Agache, A.~Voinescu, and C.~Raiciu, ``Stateless datacenter
+  load-balancing with beamer,'' in {\em Proc. of USENIX NSDI}, pp.~125--139,
+  2018.
+
+\bibitem{gandhi2014duet}
+R.~Gandhi, H.~H. Liu, Y.~C. Hu, G.~Lu, J.~Padhye, L.~Yuan, and M.~Zhang,
+  ``Duet: Cloud scale load balancing with hardware and software,'' pp.~27--38,
+  2014.
+
+\bibitem{araujo2018balancing}
+J.~T. Ara{\'u}jo, L.~Saino, L.~Buytenhek, and R.~Landa, ``Balancing on the
+  edge: Transport affinity without network state,'' in {\em Proc. of USENIX
+  NSDI}, pp.~111--124, 2018.
+
+\bibitem{barbette2021cheetah}
+T.~Barbette, E.~Wu, D.~Kosti{\'c}, G.~Q. Maguire, P.~Papadimitratos, and
+  M.~Chiesa, ``Cheetah: A high-speed programmable load-balancer framework with
+  guaranteed per-connection-consistency,'' {\em IEEE/ACM Transactions on
+  Networking}, vol.~30, no.~1, pp.~354--367, 2021.
+
+\bibitem{alizadeh2014conga}
+M.~Alizadeh, T.~Edsall, S.~Dharmapurikar, R.~Vaidyanathan, K.~Chu,
+  A.~Fingerhut, V.~T. Lam, F.~Matus, R.~Pan, N.~Yadav, {\em et~al.}, ``Conga:
+  Distributed congestion-aware load balancing for datacenters,'' in {\em Proc.
+  of ACM SIGCOMM}, pp.~503--514, 2014.
+
+\bibitem{katta2016hula}
+N.~Katta, M.~Hira, C.~Kim, A.~Sivaraman, and J.~Rexford, ``Hula: Scalable load
+  balancing using programmable data planes,'' in {\em Proc. of ACM SOSR},
+  pp.~1--12, 2016.
+
+\bibitem{liu2023burstbalancer}
+Z.~Liu, Y.~Zhao, Z.~Fan, T.~Yang, X.~Li, R.~Zhang, K.~Yang, Z.~Jiang, Z.~Zhong,
+  Y.~Huang, {\em et~al.}, ``Burstbalancer: Do less, better balance for
+  large-scale data center traffic,'' {\em IEEE Transactions on Parallel and
+  Distributed Systems}, 2023.
+
+\bibitem{perry2014fastpass}
+J.~Perry, A.~Ousterhout, H.~Balakrishnan, D.~Shah, and H.~Fugal, ``Fastpass: A
+  centralized" zero-queue" datacenter network,'' in {\em Proc. of ACM SIGCOMM},
+  pp.~307--318, 2014.
+
+\bibitem{katta2016clove}
+N.~Katta, M.~Hira, A.~Ghag, C.~Kim, I.~Keslassy, and J.~Rexford, ``Clove: How i
+  learned to stop worrying about the core and love the edge,'' in {\em Proc. of
+  ACM HotNets}, pp.~155--161, 2016.
+
+\bibitem{he2015presto}
+K.~He, E.~Rozner, K.~Agarwal, W.~Felter, J.~Carter, and A.~Akella, ``Presto:
+  Edge-based load balancing for fast datacenter networks,'' pp.~465--478, 2015.
+
+\bibitem{curtis2011mahout}
+A.~R. Curtis, W.~Kim, and P.~Yalagandula, ``Mahout: Low-overhead datacenter
+  traffic management using end-host-based elephant detection,'' in {\em Proc.
+  of IEEE INFOCOM}, pp.~1629--1637, 2011.
+
+\bibitem{majewski1996family}
+B.~S. Majewski, N.~C. Wormald, G.~Havas, and Z.~J. Czech, ``A family of perfect
+  hashing methods,'' {\em The Computer Journal}, vol.~39, no.~6, pp.~547--554,
+  1996.
+
+\bibitem{yu2018memory}
+Y.~Yu, D.~Belazzougui, C.~Qian, and Q.~Zhang, ``Memory-efficient and ultra-fast
+  network lookup and forwarding using othello hashing,'' {\em IEEE/ACM
+  Transactions on Networking}, vol.~26, no.~3, pp.~1151--1164, 2018.
+
+\bibitem{bonomi2006improved}
+F.~Bonomi, M.~Mitzenmacher, R.~Panigrahy, S.~Singh, and G.~Varghese, ``An
+  improved construction for counting bloom filters,'' in {\em Annual European
+  Symposium}, pp.~684--695, Springer, 2006.
+
+\bibitem{barefoot2019}
+Barefoot. \url{https://www.barefootnetworks.com/products/brief-tofino/}.
+
+\bibitem{shi2020concury}
+S.~Shi, Y.~Yu, M.~Xie, X.~Li, X.~Li, Y.~Zhang, and C.~Qian, ``Concury: A fast
+  and light-weight software cloud load balancer,'' in {\em Proc. of ACM SoCC},
+  pp.~179--192, 2020.
+
+\bibitem{yu2017sdlb}
+Y.~Yu, X.~Li, and C.~Qian, ``Sdlb: A scalable and dynamic software load
+  balancer for fog and mobile edge computing,'' in {\em Proc. of ACM MECOMM},
+  pp.~55--60, 2017.
+
+\bibitem{zhang2020fast}
+J.~Zhang, S.~Wen, J.~Zhang, H.~Chai, T.~Pan, T.~Huang, L.~Zhang, Y.~Liu, and
+  F.~R. Yu, ``Fast switch-based load balancer considering application server
+  states,'' {\em IEEE/ACM Transactions on Networking}, vol.~28, no.~3,
+  pp.~1391--1404, 2020.
+
+\bibitem{abdelmoniem2021towards}
+A.~M. Abdelmoniem and M.~Canini, ``Towards mitigating device heterogeneity in
+  federated learning via adaptive model quantization,'' in {\em Proc. of ACM
+  EuroMLSys}, pp.~96--103, 2021.
+
+\bibitem{sharma2011modeling}
+B.~Sharma, V.~Chudnovsky, J.~L. Hellerstein, R.~Rifaat, and C.~R. Das,
+  ``Modeling and synthesizing task placement constraints in google compute
+  clusters,'' in {\em Proc. of ACM SoCC}, pp.~1--14, 2011.
+
+\bibitem{garg2014sla}
+S.~K. Garg, A.~N. Toosi, S.~K. Gopalaiyengar, and R.~Buyya, ``Sla-based virtual
+  machine management for heterogeneous workloads in a cloud datacenter,'' {\em
+  Journal of Network and Computer Applications}, vol.~45, pp.~108--120, 2014.
+
+\bibitem{lin2017enabling}
+T.~Lin, N.~Tarafdar, B.~Park, P.~Chow, and A.~Leon-Garcia, ``Enabling network
+  function virtualization over heterogeneous resources,'' in {\em Proc. of IEEE
+  APNOMS}, pp.~58--63, 2017.
+
+\bibitem{xiao2015detecting}
+P.~Xiao, W.~Qu, H.~Qi, and Z.~Li, ``Detecting ddos attacks against data center
+  with correlation analysis,'' {\em Computer Communications}, vol.~67,
+  pp.~66--74, 2015.
+
+\bibitem{garber2000denial}
+L.~Garber, ``Denial-of-service attacks rip the internet,'' {\em computer},
+  vol.~33, no.~04, pp.~12--17, 2000.
+
+\bibitem{guo2022libra}
+X.~Guo, L.~Zhu, D.~Zhang, and C.~Wu, ``Libra: a stateful layer-4 load balancer
+  with fair load distribution,'' in {\em Proc. of IEEE IPCCC}, pp.~246--253,
+  2022.
+
+\bibitem{barbette2020high}
+T.~Barbette, C.~Tang, H.~Yao, D.~Kosti{\'c}, G.~Q. Maguire~Jr,
+  P.~Papadimitratos, and M.~Chiesa, ``A $\{$High-Speed$\}$$\{$Load-Balancer$\}$
+  design with guaranteed $\{$Per-Connection-Consistency$\}$,'' in {\em Proc. of
+  USENIX NSDI}, pp.~667--683, 2020.
+
+\bibitem{alizadeh2010data}
+M.~Alizadeh, A.~Greenberg, D.~A. Maltz, J.~Padhye, P.~Patel, B.~Prabhakar,
+  S.~Sengupta, and M.~Sridharan, ``Data center tcp (dctcp),'' in {\em Proc. of
+  ACM SIGCOMM}, pp.~63--74, 2010.
+
+\bibitem{mitzenmacher2001power}
+M.~Mitzenmacher, ``The power of two choices in randomized load balancing,''
+  {\em IEEE Transactions on Parallel and Distributed Systems}, vol.~12, no.~10,
+  pp.~1094--1104, 2001.
+
+\bibitem{ghorbani2017drill}
+S.~Ghorbani, Z.~Yang, P.~B. Godfrey, Y.~Ganjali, and A.~Firoozshahian, ``Drill:
+  Micro load balancing for low-latency data center networks,'' in {\em Proc. of
+  ACM SIGCOMM}, pp.~225--238, 2017.
+
+\bibitem{zhang2021loom}
+J.~Zhang, Y.~Gao, S.~Wen, T.~Pan, and T.~Huang, ``Loom: Switch-based cloud load
+  balancer with compressed states,'' in {\em Proc. of IEEE ICNP}, pp.~1--11,
+  2021.
+
+\bibitem{yu2017othello}
+Y.~Yu, D.~Belazzougui, C.~Qian, and Q.~Zhang, ``Othello hashing for scalable
+  and fast name switching,'' in {\em Proc. of IEEE ICNP}, 2017.
+
+\bibitem{chazelle2004bloomier}
+B.~Chazelle, J.~Kilian, R.~Rubinfeld, and A.~Tal, ``The bloomier filter: an
+  efficient data structure for static support lookup tables,'' in {\em Proc. of
+  ACM/SIAM SODA}, pp.~30--39, 2004.
+
+\bibitem{geravand2013bloom}
+S.~Geravand and M.~Ahmadi, ``Bloom filter applications in network security: A
+  state-of-the-art survey,'' {\em Computer Networks}, vol.~57, no.~18,
+  pp.~4047--4064, 2013.
+
+\bibitem{montazeri2018homa}
+B.~Montazeri, Y.~Li, M.~Alizadeh, and J.~Ousterhout, ``Homa: A receiver-driven
+  low-latency transport protocol using network priorities,'' in {\em Proc. of
+  ACM SIGCOMM}, pp.~221--235, 2018.
+
+\bibitem{pktgenDPDK}
+Pktgen-DPDK. \url{https://github.com/pktgen/Pktgen-DPDK}.
+
+\bibitem{glozer2020wrk}
+WRK. \url{https://github.com/wg/wrk}.
+
+\bibitem{cheetah}
+Cheetah. \url{https://github.com/cheetahlb/}.
+
+\bibitem{concury2019}
+Concury. \url{https://www.dropbox.com/s/ruou2l340uu1f4u/concury%20code.zip}.
+
+\bibitem{gandhi2015rubik}
+R.~Gandhi, Y.~C. Hu, C.-k. Koh, H.~H. Liu, and M.~Zhang, ``Rubik: Unlocking the
+  power of locality and end-point flexibility in cloud scale load balancing,''
+  in {\em Proc. of USENIX ATC}, pp.~473--485, 2015.
+
+\end{thebibliography}

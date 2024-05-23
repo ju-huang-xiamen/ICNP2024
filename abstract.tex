@@ -1,3 +1,24 @@
-\begin{abstract}
-Layer-4 load balancers play a pivotal role in data centers by efficiently distributing incoming traffic across thousands of servers. These load balancers need to meet two key requirements: load balancing fairness, which ensures a uniform distribution of incoming traffic across servers, and per-connection-consistency (PCC), which guarantees that all packets belonging to the same connection are forwarded to the same server. Existing load balancers face a dilemma: they either sacrifice fairness to significantly reduce PCC violations, failing to meet both requirements, or they adopt complex scheduling mechanisms, which increase deployment and operational costs. In this paper, we introduce Maat, a load balancer designed to achieve fair load distribution and PCC while seamlessly integrating into existing data center infrastructures. Maat introduces a novel scheduling method called the power of one random choice. This method improves the utilization of all available servers, greatly enhancing load distribution fairness while reducing PCC violations. Furthermore, Maat can fully guarantee PCC by utilizing counting Bloom filters with negligible memory overhead. We implement Maat on a Tofino switch, and our experimental results show that the packet processing overhead of Maat is acceptable. Compared to other Layer-4 load balancers, Maat improves load balancing fairness by up to 74.42\% and reduces flow completion time by 10.58\%, while fully guaranteeing PCC at the cost of minimal memory consumption.
+\begin{abstract} 
+    Layer-4 load balancers (LB) play a pivotal role in data centers
+    by efficiently distributing traffic across a large number of backend
+    servers.  To achieve good network performance, LBs should meet two key
+    requirements: load distribution fairness and per-connection consistency
+    (PCC). The former guarantees that traffic are distributed evenly among
+    servers, while the later ensures that packets belonging to the same
+    connection are forwarded to the same server.  We find that existing LBs face
+    a dilemma: they either sacrifice fairness to prevent PCC violation, which
+    fails to meet the key requirements, or adopt complex scheduling mechanisms,
+    which is unscalable and increases deployment costs. 
+    In this paper, we present Maat, a load balancer that achieves both fairness
+    and PCC while seamlessly integrating into existing data center
+    infrastructures. Maat introduces a novel scheduling method called the power
+    of one random choice. The method greatly enhancing load distribution
+    fairness while reducing PCC violations, and hence improves the utilization
+    of all available servers. Maat can fully guarantee PCC by utilizing counting
+    Bloom filters with negligible memory overhead. We implement Maat on both
+    DPDK servers and programmable switches. Our experimental results show that
+    the packet processing overhead of Maat is acceptable.  Compared with other
+    Layer-4 LBs, Maat improves load distribution fairness by up to 74.42\% and
+    reduces flow completion time by 10.58\%, while fully guaranteeing PCC at the
+    cost of minimal memory consumption.
 \end{abstract}

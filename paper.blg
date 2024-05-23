@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: paper.aux
+The style file: ieeetr.bst
+Database file #1: ref.bib
+I was expecting a `{' or a `('---line 43 of file ref.bib
+ : 
+ : @article{matsumoto2008adaptive,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `{' or a `('---line 63 of file ref.bib
+ : 
+ : @inproceedings{belazzougui2009monotone,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty journal in patel2013ananta
+Warning--empty journal in gandhi2014duet
+Warning--empty journal in he2015presto
+You've used 47 entries,
+            1876 wiz_defined-function locations,
+            715 strings with 12422 characters,
+and the built_in function-call counts, 16245 in all, are:
+= -- 1514
+> -- 816
+< -- 0
++ -- 290
+- -- 243
+* -- 1182
+:= -- 2243
+add.period$ -- 52
+call.type$ -- 47
+change.case$ -- 42
+chr.to.int$ -- 0
+cite$ -- 50
+duplicate$ -- 810
+empty$ -- 1479
+format.name$ -- 243
+if$ -- 3905
+int.to.chr$ -- 0
+int.to.str$ -- 47
+missing$ -- 42
+newline$ -- 144
+num.names$ -- 47
+pop$ -- 241
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 591
+stack$ -- 0
+substring$ -- 1228
+swap$ -- 343
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 167
+width$ -- 49
+write$ -- 426
+(There were 2 error messages)
